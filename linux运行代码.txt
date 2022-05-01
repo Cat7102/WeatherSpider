@@ -1,0 +1,3 @@
+nohup python main.py >/home/WeatherSpider/nohup.log 2>&1 &
+
+ps -aux|grep python
